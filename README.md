@@ -235,14 +235,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📸 Screenshots
-
-> **Note:** Add screenshots here once you run the app:
-> - Login Screen (Light & Dark)
-> - Home Screen with posts
-> - Profile Screen
-> - Loading/Error states
-
----
-
 **⭐ If you found this helpful, please star the repository!**
