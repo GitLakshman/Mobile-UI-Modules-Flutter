@@ -1,12 +1,23 @@
 # Miscellaneous
 *.class
-*.lock
 *.log
 *.pyc
 *.swp
 .buildlog/
 .history
+.metadata
 
+# IDE / Editor
+.idea/
+*.iml
+.vscode/
+*.code-workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+Thumbs.db
 
 
 # Flutter repo-specific
