@@ -235,4 +235,23 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 📸 Screenshots
+
+> - Login Screen (Light & Dark) : 
+<img width="447" height="751" alt="Screenshot from 2025-12-19 12-18-08" src="https://github.com/user-attachments/assets/9802520d-d354-4aaf-815b-6c691de6ea2a" />
+<img width="447" height="769" alt="Screenshot from 2025-12-19 12-21-02" src="https://github.com/user-attachments/assets/60f26266-6723-482a-8ef7-96ed0749736e" />
+
+
+> - Home Screen with posts : 
+<img width="447" height="751" alt="Screenshot from 2025-12-19 12-18-33" src="https://github.com/user-attachments/assets/feb93119-755e-4bfa-9094-17de281857cf" />
+
+> - Profile Screen: 
+<img width="447" height="751" alt="Screenshot from 2025-12-19 12-18-45" src="https://github.com/user-attachments/assets/765e2eba-f44b-462f-a6d6-27c592cefebe" />
+
+> - Loading/Error states: 
+<img width="447" height="769" alt="Screenshot from 2025-12-19 12-23-34" src="https://github.com/user-attachments/assets/cb35dc37-1416-41fc-8536-c245fdbfa922" />
+
+
+---
+
 **⭐ If you found this helpful, please star the repository!**
